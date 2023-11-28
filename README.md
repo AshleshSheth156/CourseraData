@@ -6,16 +6,19 @@
 
  This repository contains:
 
-    • **SQL Queries**: SQL queries used for data exploration, analysis, and extraction from the Coursera dataset.
-    • ** Tableau Visualizations**: Visualizations created in Tableau based on the analyzed dataset.
-    • **Python Code**: Python scripts or Jupyter Notebooks for data analysis and visualization using Pandas, Matplotlib, and Seaborn.
+    • SQL Queries: SQL queries used for data exploration, analysis, and extraction from the Coursera dataset.
+    • Tableau Visualizations: Visualizations created in Tableau based on the analyzed dataset.
+    • Python Code: Python scripts or Jupyter Notebooks for data analysis and visualization using Pandas, Matplotlib, and Seaborn.
+    • Screenshots : This section contains screenshots showcasing visualizations created using Tableau. 
+    
 
 
 # Contents
 
    • /**SQL_queries**: Contains SQL queries used for various analyses on the dataset.
-   • /**Tableau_visualizations**: Contains visualizations created in Tableau based on the analyzed dataset.
+   • /**Tableau_visualizations**: Contains visualizations created in Tableau based on the analyzed dataset. 
    • /**Python_scripts**: Includes Python scripts or Jupyter Notebooks for data analysis and visualization. 
+   
 
 # How to Use
 
